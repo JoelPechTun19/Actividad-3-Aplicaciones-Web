@@ -1,0 +1,233 @@
+html{
+    background-color: #000;
+}
+
+.Principal{
+    width: 750px;
+    height: 1050px;
+    margin: auto;
+    background-color: skyblue;
+}
+
+.Titulo{
+    width: 750px;
+}
+
+.Mifoto{
+    width: 220px;
+    height: 250px;
+    background-color: skyblue;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+.DatosP{
+    width: 480px;
+    margin: 0px 5px 5px 10px;
+    height: 25px;
+    background-color: #fff;
+    float: left;
+    justify-content: center;
+    align-items: center;
+}
+#DP{
+    margin: 0%;
+    color: red;
+}
+
+.Dat{
+    width: 480px;
+    margin-left: 10px;
+    margin-right: 5px;
+    height: 220px;
+    background-color: #bfbfbf;
+    float: left;
+    justify-content: center;
+    align-items: center;
+}
+
+.Exp{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 30px;
+    background-color: #fff;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Datos2{
+    margin: 0%;
+    color: red;
+}
+
+.Explicacion{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 80px;
+    background-color: #BFBFBF;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Academico{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 30px;
+    background-color: #fff;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Educ{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 96px;
+    background-color: #BFBFBF;
+    float: left;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.Capacidades{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 30px;
+    background-color: #fff;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Conoci{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 30px;
+    background-color: #fff;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.DatosTec{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 150px;
+    background-color: #bfbfbf;
+    float: left;
+    align-items: center;
+}
+
+.Idiomas{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 30px;
+    background-color: #fff;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Lenguaje{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 30px;
+    background-color: #bfbfbf;
+    float: left;
+    display: flex;
+    align-items: center;
+}
+
+.Meta{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 30px;
+    background-color: #fff;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.MetaInf{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 50px;
+    background-color: #bfbfbf;
+    float: left;
+    display: flex;
+    align-items: center;
+}
+.Hobbies{
+    width: 740px;
+    margin: 5px 5px 0px 5px;
+    height: 30px;
+    background-color: #fff;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Adicional{
+    width: 740px;
+    margin: 8px 5px 0px 5px;
+    height: 60px;
+    background-color: #bfbfbf;
+    float: left;
+    align-items: center;
+}
+#Info1{
+    margin: 0px;
+}
+
+#Info2{
+    margin: 0%;
+    color: red;
+}
+
+#Info3{
+    margin: 0px 0px 0px 30px;
+}
+
+#Info4{
+    margin: 0%;
+    color: red;
+}
+
+#Info5{
+    margin: 0%;
+    color: red;
+}
+
+#Info6{
+    margin: 0px 0px 0px 30px;
+}
+#Info7{
+    margin: 0%;
+    color: red;
+}
+#Info8{
+    margin: 0px 0px 0px 30px;
+}
+#Info9{
+    margin: 0%;
+    color: red;
+}
+#Info10{
+    margin: 0px 0px 0px 30px;
+}
+#Info11{
+    margin: 0%;
+    color: red;
+}
+#Info12{
+    margin: 0px 0px 0px 30px;
+}

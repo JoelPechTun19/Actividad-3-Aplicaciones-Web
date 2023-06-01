@@ -1,0 +1,51 @@
+html{
+    background-color: #000;
+}
+
+.Principal{
+    width: 750px;
+    height: 1100px;
+    background-color: #fff;
+    margin:auto ;
+}
+
+.DatosReg{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.Titulo{
+    width: 750px;
+    margin-top: 10px;
+}
+
+h1{
+    justify-content: center;
+    display: flex;
+}
+
+h2{
+    justify-content: center;
+    display: flex;
+}
+
+h3{
+    justify-content: center;
+    display: flex;
+}
+
+nav{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+#Anillo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
